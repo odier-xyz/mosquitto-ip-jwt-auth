@@ -40,6 +40,8 @@ mosquitto --version
 gcc --version
 cmake --version
 make --version
+
+sudo apt install libmosquitto-dev
 ```
 
 * Compiling:
